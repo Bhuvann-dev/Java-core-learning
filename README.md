@@ -18,5 +18,3 @@ I am building strong programming foundations before moving deeper into backend e
 
 ---
 
-## 📂 Folder Structure
-
