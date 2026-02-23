@@ -8,7 +8,7 @@ public class practiceApp {
        
         
 
-        System.out.println("no of objects created : " + Practice.a);
+        System.out.println("No of objects created : " + Practice.a);
 
 
     }
