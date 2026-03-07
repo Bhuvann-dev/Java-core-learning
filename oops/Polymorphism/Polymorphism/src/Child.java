@@ -8,6 +8,6 @@ public class Child extends Parent {
   // }  Inherited method
 
   void disp3() {
-    System.out.println("Inside child disp3"); // child specific method
+    System.out.println("Inside child disp3"); // child specialized method
   }
 }
