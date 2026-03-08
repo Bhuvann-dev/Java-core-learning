@@ -4,6 +4,6 @@ public class Mnitor {
   }
 
   void disp2() {
-    System.out.println("");
+    System.out.println("Disp2 works fine");
   }
 }

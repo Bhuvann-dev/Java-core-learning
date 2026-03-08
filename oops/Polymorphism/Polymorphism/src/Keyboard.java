@@ -8,6 +8,6 @@ public class Keyboard extends Mnitor {
   }
 
   void show3() {
-    System.out.println("");
+    System.out.println("Specilized method of Keyboard");
   }
 }
