@@ -41,7 +41,7 @@ public class DeveloperApp {
    public static void accessMethod(Developer dev)  // One is to many.
         {
           dev.work();
-          dev.project();
+          
         }
 
 }
