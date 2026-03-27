@@ -9,9 +9,12 @@ public class TwoD {
 
     System.out.println("Enter you 2D array size in Row and col:");
     int row = scan.nextInt();
-    int col = scan.nextInt();
+    // int col = scan.nextInt();
 
-    int a [][] = new int[row][col];
+    int a [][] = new int[row][];
+    a[0] = new int[3];
+    a[1] = new int[4];
+    a[2] = new int[2];
 
     System.out.println("Enter the elements to be inserted:");
     for(int i = 0; i <= a.length-1; i++) {
