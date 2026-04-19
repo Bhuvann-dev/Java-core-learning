@@ -13,7 +13,7 @@ I am building strong programming foundations before moving deeper into backend e
 - Collections Framework
 - Exception Handling
 - Multithreading (basics)
-- File Handling
+- File Handling.
 - Mini Console Projects
 
 ---
