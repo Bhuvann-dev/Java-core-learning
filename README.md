@@ -12,7 +12,7 @@ I am building strong programming foundations before moving deeper into backend e
 - Object-Oriented Programming (OOP)
 - Collections Framework
 - Exception Handling.
-- Multithreading (basics)
+- Multithreading (basics).
 - File Handling.
 - Mini Console Projects
 
