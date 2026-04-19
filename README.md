@@ -11,7 +11,7 @@ I am building strong programming foundations before moving deeper into backend e
 - Java Basics.
 - Object-Oriented Programming (OOP)
 - Collections Framework
-- Exception Handling
+- Exception Handling.
 - Multithreading (basics)
 - File Handling.
 - Mini Console Projects
