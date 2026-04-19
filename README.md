@@ -9,7 +9,7 @@ I am building strong programming foundations before moving deeper into backend e
 ## 📌 What This Repo Covers
 
 - Java Basics.
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOP).
 - Collections Framework
 - Exception Handling.
 - Multithreading (basics).
