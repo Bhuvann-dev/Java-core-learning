@@ -14,7 +14,7 @@ I am building strong programming foundations before moving deeper into backend e
 - Exception Handling.
 - Multithreading (basics).
 - File Handling.
-- Mini Console Projects
+- Mini Console Projects.
 
 ---
 
